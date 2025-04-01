@@ -28,7 +28,7 @@ $result = mysqli_query($db, $sql);
   <a href="../../auth/logout.php">Logout</a>
   <h1 style="text-align: center;">Admin Dashboard</h1>
   <form class="filterContainer" style="display: flex; justify-content: center; align-items: center; gap: 10px; padding: 60px 0px 40px 0px;">
-    <span style="font-weight: bold; font-size: large">Category: </span>
+    <span style="font-weight: bold; font-size: large">Category:  </span>
     <select name="" id="">
       <option value="it support">IT Support</option>
       <option value="maintenance">Maintenance</option>
