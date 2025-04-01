@@ -7,5 +7,5 @@ $database = 'ssrs';
 $db = mysqli_connect($host, $user, $password, $database);
 if ($db) {
 } else {
-  echo "Connection failed";
+  echo "Connection failed ";
 }
